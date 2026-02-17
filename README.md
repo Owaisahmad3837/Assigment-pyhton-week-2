@@ -1,3 +1,5 @@
+i do all this but i need to look better so take help from chatgpt make better formet Like Question then Answer:
+
 
 # Python Assignment – Week 2
 **Subject:** Python Programming
